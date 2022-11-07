@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "Pau Saez",
+      "email": "pau.saez4600@gmail.com",
+      "company": "Pau S.L",
+      "telefon": "601 350 626",
+      "id": 1
+    },
+    {
+      "name": "Pepe",
+      "email": "pepe@gmail.com",
+      "company": "Pepe S.L",
+      "telefon": "456 267 123",
+      "id": 2
+    }
+  ]
+}
